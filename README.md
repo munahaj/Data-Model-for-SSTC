@@ -6,4 +6,4 @@ Important notes:
 - Seven Sages teas are sold in Washington State (USD) and British Columbia (CAD), so there's a currency consideration as well.
 - The company runs on a fiscal calendar.
 
-![image](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/873f7870-58d7-4243-a48f-58804a67ab59)
+![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/754bf699-5e80-4e9d-88f3-e86cac4ea6bc)
