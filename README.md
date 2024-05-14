@@ -37,7 +37,8 @@ Below notes regarding the customer types were shared with the CFO in the report:
 - Customer with the 2nd Highest Sale - Grocery Store
 - Customer with the Highest 2d GPM for FY - Grocery Store
 
- # Further Analysis
+ # Further Remarks 
+- Imperial Poet Tea beverage has generated great sales however the GPM is also low compared to the sales. 
 
- 
+![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/db5333e0-8a90-400d-930b-418962000bdd)
 
