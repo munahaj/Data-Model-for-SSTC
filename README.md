@@ -9,6 +9,7 @@ Important notes:
 Below screebshot is the summary of the final submitted report:
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/754bf699-5e80-4e9d-88f3-e86cac4ea6bc)
 
+# Project/Report:
 After combuning and cleaning the data, we went ahead with creating a date table to accommodite to their fiscal year which included columuns for Calendar year, month name and number, Fiscal year, Fiscal quarter and Fiscal period.
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/9b430ef4-5bdb-4526-99c7-e150b39d3d8e)
