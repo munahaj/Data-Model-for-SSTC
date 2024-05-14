@@ -23,7 +23,7 @@ After calculating the total Sales (In USD and CAD), Cost of Sales and Gross Prof
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/4c517aef-8ae6-444f-a289-b8d39458feab)
 
-With this report we were able to conclude that the product with the generates the highest profit compared to sales is (Han Dynasty Spiced Tea) with total Sales of USD 6840.00 (CAD 9105.4) and with a gross profit margin of 37.98%.
+With this report we were able to conclude that the product with the generates the highest profit compared to sales is (Han Dynasty Spiced Tea) with total Sales of USD 6840.00 (CAD 9105.4) and with a gross profit margin of 37.98% and Gross profit by Product of 10.53%.
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/906f6b8a-f76f-4deb-8828-d9c5a2dd08d3)
 
@@ -38,7 +38,11 @@ Below notes regarding the customer types were shared with the CFO in the report:
 - Customer with the Highest 2d GPM for FY - Grocery Store
 
  # Further Remarks 
-- Imperial Poet Tea beverage has generated great sales however the GPM is also low compared to the sales. 
+- Imperial Poet Tea beverage has generated great sales however the GPM is also low compared to the sales. It is also noted that the beverage is a seasonal drink as the analysis show there is a sales ression of the sold quantity between the month period of May 2021 and August 2021.
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/db5333e0-8a90-400d-930b-418962000bdd)
+
+- Although the gross profit margin for Liu Ling's Black Tea is high compared to the total sales, however the gross profit by product percentage is lower compared to the Unit sold by product.
+
+![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/7b99cceb-a5e5-4cf2-bc68-72eb430dcf86)
 
