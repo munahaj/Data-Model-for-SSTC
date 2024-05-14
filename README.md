@@ -6,7 +6,7 @@ Important notes:
 - Seven Sages teas are sold in Washington State (USD) and British Columbia (CAD), so there's a currency consideration as well.
 - The company runs on a fiscal calendar (Begins on October 1st and runs until September 30th).
 
-Below screebshot is the summary of the final submitted report:
+Below screenshot is the summary of the final submitted report:
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/754bf699-5e80-4e9d-88f3-e86cac4ea6bc)
 
 # Project/Report:
@@ -17,5 +17,11 @@ After combuning and cleaning the data, we went ahead with creating a date table 
 Table relationships has been established for the Model View:
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/074a8e0a-5d8e-4bb8-ab0a-949a4ce03585)
+
+After calculating the total Sales (In USD and CAD), Cost of Sales and Gross Profit Margin, we created a visualized table to summarize the output of our data model for the CFO. The basic version of this report  have two tabs, one summarizing sales by customer and customer type across quarters. The second table  summarizes the percentages of gross profit and unit sales by product.
+
+![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/4c517aef-8ae6-444f-a289-b8d39458feab)
+
+
 
 
