@@ -4,6 +4,17 @@ In this project, we created a data model and Power BI report for Seven Sages Tea
 Important notes:
 - It is already established that the flagship tea beverage, Bamboo Grove Tea is the company's biggest seller. However, with the way the data is collected in-house, they are not even sure whether all the products are generating a profit at this stage.
 - Seven Sages teas are sold in Washington State (USD) and British Columbia (CAD), so there's a currency consideration as well.
-- The company runs on a fiscal calendar.
+- The company runs on a fiscal calendar (Begins on October 1st and runs until September 30th).
 
+Below screebshot is the summary of the final submitted report:
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/754bf699-5e80-4e9d-88f3-e86cac4ea6bc)
+
+After combuning and cleaning the data, we went ahead with creating a date table to accommodite to their fiscal year:
+
+![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/9b430ef4-5bdb-4526-99c7-e150b39d3d8e)
+
+Table relationships has been established for the Model View:
+
+![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/074a8e0a-5d8e-4bb8-ab0a-949a4ce03585)
+
+
