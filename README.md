@@ -11,7 +11,7 @@ Below screenshot is the summary of the final submitted report:
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/31952794-f045-41a8-92a1-213a46591161)
 
 # Project/Report:
-After combuning and cleaning the data, we went ahead with creating a date table to accommodite to their fiscal year which included columuns for Calendar year, month name and number, Fiscal year, Fiscal quarter and Fiscal period.
+After combining and cleaning the data, we went ahead with creating a date table to accommodite to their fiscal year which included columuns for Calendar year, month name and number, Fiscal year, Fiscal quarter and Fiscal period.
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-SSTC/assets/169274166/9b430ef4-5bdb-4526-99c7-e150b39d3d8e)
 
